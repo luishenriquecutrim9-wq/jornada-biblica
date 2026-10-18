@@ -1,0 +1,27 @@
+JORNADA BÍBLICA — VERSÃO PROFISSIONAL GRATUITA
+
+ABRIR LOCALMENTE
+1. Extraia o ZIP para uma pasta.
+2. Abra JornadaBiblica_Profissional.
+3. Dê dois cliques em index.html.
+
+RECURSOS
+- Planos personalizados de 1 a 1.189 dias, com progresso separado.
+- Calendário, lista de leituras, livros, diário e relatórios.
+- Backup em arquivo JSON.
+- Tema claro/escuro e interface responsiva.
+- PWA com suporte de instalação e funcionamento offline quando publicado em HTTPS.
+
+IMPORTANTE SOBRE O MODO OFFLINE
+Ao abrir index.html diretamente, o site funciona como arquivo local. A instalação PWA e o cache offline do service worker precisam de HTTPS ou localhost.
+
+PUBLICAÇÃO GRATUITA (GITHUB PAGES)
+1. Crie uma conta gratuita em https://github.com/.
+2. Crie um repositório público chamado jornada-biblica.
+3. Envie index.html, manifest.webmanifest, sw.js, icon.svg, icon-192.png e icon-512.png para a raiz do repositório.
+4. No repositório, entre em Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch; selecione main e /(root), depois Save.
+6. Aguarde a publicação e abra o endereço informado na página Pages.
+
+PRIVACIDADE
+Os dados de leitura e as reflexões ficam no armazenamento local do navegador. Não existe conta online nem sincronização entre dispositivos nesta versão. Exporte backups regularmente.
